@@ -1,9 +1,13 @@
 # British Airways Customer Review Analysis Dashboard (using Tableau)
 ## Project Objective
 •	Analyze customer feedback and satisfaction levels for British Airways.
+
 •	Track overall rating trends over time.
+
 •	Compare service quality across different aircraft types and countries.
+
 •	Identify strengths and improvement areas using key performance indicators.
+
 •	Support data-driven decision-making through interactive visualizations.
 
 ## Dataset Used
