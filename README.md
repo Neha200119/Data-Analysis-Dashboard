@@ -67,10 +67,15 @@
 <a href="https://public.tableau.com/app/profile/neha.s.k7352/viz/BritishAirwaysReview_17658695018920/British_Airways_Review"> British Airways Review Dashboard </a>
 ## Key Insights
 •	The overall average customer rating is moderate, indicating mixed passenger experiences
+
 •	Cabin staff service consistently receives higher ratings compared to other parameters
+
 •	Entertainment and food & beverages show relatively lower ratings, highlighting improvement opportunities
+
 •	Certain aircraft types perform better in terms of customer satisfaction
+
 •	Customer ratings vary significantly across countries and traveller categories
+
 •	Aircraft with higher review volumes do not always have higher satisfaction scores
 ## Final Conclusion
 This dashboard shows an overall view of British Airways customer feedback and service performance. It helps stakeholders understand trends, compare regions and aircraft types, and identify areas that need improvement.
