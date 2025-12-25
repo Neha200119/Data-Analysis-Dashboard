@@ -1,9 +1,13 @@
 # British Airways Customer Review Analysis Dashboard (using Tableau)
 ## Project Objective
 •	Analyze customer feedback and satisfaction levels for British Airways.
+
 •	Track overall rating trends over time.
+
 •	Compare service quality across different aircraft types and countries.
+
 •	Identify strengths and improvement areas using key performance indicators.
+
 •	Support data-driven decision-making through interactive visualizations.
 ## Dataset Used
 •	Dataset: British Airways Customer Reviews
@@ -53,20 +57,14 @@
 •	Which aircraft types receive the highest number of reviews?
 ## Process & Methodology
 1.	Collected and reviewed the raw customer review dataset
-2.	
-3.	Cleaned and structured the data for analysis
-4.	
-5.	Created calculated fields for average ratings and trend analysis
-6.	
-7.	Designed KPIs to summarize overall service performance
-8.	
-9.	Built interactive visualizations in Tableau
-10.	
-11.	Added filters for seat type, traveller type, aircraft, continent, and metrics
-12.	
-13.	Published the final dashboard on Tableau Public
+2.	Cleaned and structured the data for analysis
+3.	Created calculated fields for average ratings and trend analysis
+4.	Designed KPIs to summarize overall service performance
+5.	Built interactive visualizations in Tableau
+6.	Added filters for seat type, traveller type, aircraft, continent, and metrics
+7.	Published the final dashboard on Tableau Public
 ## Dashboard
-<a href="https://public.tableau.com/app/profile/neha.s.k7352/viz/BritishAirwaysReview_17658695018920/British_Airways_Review"> British Airways Review </a>
+<a href="https://public.tableau.com/app/profile/neha.s.k7352/viz/BritishAirwaysReview_17658695018920/British_Airways_Review"> British Airways Review Dashboard </a>
 ## Key Insights
 •	The overall average customer rating is moderate, indicating mixed passenger experiences
 •	Cabin staff service consistently receives higher ratings compared to other parameters
